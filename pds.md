@@ -565,6 +565,8 @@
 553. **stand-alone** (adj): independente, sozinho, autossuficiente;
 554. **to indulge** (verb): satisfazer, ceder a um desejo;
 555. **out-of-this-world** (adj): incrível, sensacional;
+556. **to disguise** (verb): disfarçar, mascarar;
+557. **guise** (noun): pretexto, aparência;
 
 ## 2.2. Entrevista de RH
 
