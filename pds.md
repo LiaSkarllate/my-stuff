@@ -1,6 +1,7 @@
 # Programador de Sucesso
 
 ## 1. Linkedln
+
 * É sobre o que o recrutador, e não você, quer ou espera ler.
 
 ## 2. Entrevistas
@@ -8,6 +9,7 @@
 ## 2.1. Inglês
 
 ### 2.1.1. Vocábulos
+
 1. **slightly** (adv): levemente, ligeiramente, moderadamente, um pouco;
 2. **to cherry-pick** (verb): selecionar tendenciosamente, escolher a dedo (coloquial);
 3. **the least** (adv): o mínimo, menos que todos;
@@ -560,18 +562,22 @@
 550. **sneaky** (adj): sorrateiro, furtivo;
 551. **to make (something) seem like** (expression): fazer (algo) parecer;
 552. **to make (something) appear** (expression): fazer (algo) parecer;
+553. **stand-alone** (adj): independente, sozinho, autossuficiente; 
 
 ## 2.2. Entrevista de RH
+
 * É usado para validar o inglês do canditado;
 * É sobre o que o recrutador, e não você, quer ou espera ouvir;
 * É sobre como você ajudará ou o que você ofererá à empresa com suas habilidades naquela vaga específica;
 * É sobre mostrar que você é o melhor para preencher aquela vaga específica.
 
 ### 2.2.1. Pré-entrevista de RG
+
 * Leia e releia a descrição da vaga;
 * Pesquisa pela empresa e pelos seus desenvolvedores no Linkedln.
 
 ### 2.2.2. Formalidades
+
 * **When entering the meeting**: Hi! You must be (recruiter name). It's a pleasure to meet you, (recruiter name). I'm William and I'm looking forward to talking to you;
 
 * **When answering a question** :fa-arrow-right:
@@ -598,6 +604,7 @@
 * **"How are you?"**: I’m good and you?
 
 ### 2.2.3. Perguntas Mais Comuns
+
 1. **Can you confirm your current location and time zone availability?**: I'm currently based in Brazil, but I'm totally comfortable working within North American time zones. I always make it a priority to align my schedule with the team's needs;
 
 2. **What motivates your interest in this role?"**: Right now, the project I'm working on at my current company in Brazil has moved into more of a maintenance phase. I'm someone who really enjoys building things and solving problems, so I'm looking for new challenges where I can keep using my skills to create real value for people—that's something I truly like. I also feel like my background and experience line up well with what you're looking for in this role, so I see it as a great opportunity for both of us to grow together;
@@ -651,6 +658,7 @@
 ## 2.3. Entrevista Técnica
 
 ### 2.3.1. Perguntas Mais Comuns (Java)
+
 1. **How do the 'volatile' keyword, the 'synchronized' keyword and the java.util.concurrent primitives ensure thread safety?**: In Java, thread safety is handled using a few key tools: the `synchronized` keyword, the `volatile` keyword, and the `java.util.concurrent` primitives. When you use `synchronized`, you're basically putting a lock around a block of code or a method, so that only one thread can access it at a time. This ensures mutual exclusion, meaning multiple threads can't modify shared resources at the same time, which helps prevent issues like thread interference—an unexpected behavior caused by concurrent access to shared data. On the other hand, `volatile` is used for variables that might be accessed by multiple threads. It guarantees visibility—so when one thread updates a `volatile` variable, that change is immediately visible to all other threads. It doesn’t lock anything, but it makes sure threads always see the most up-to-date value. Then, there's the `java.util.concurrent` package, which offers higher-level tools like atomic variables, thread-safe collections and synchronizers like `Semaphore`. These are often more efficient and flexible than just using `synchronized` or `volatile` alone. So, all of these—locks for mutual exclusion, `volatile` for visibility and the concurrency utilities—work together to help the codera write safe and reliable multithreaded code in Java;
 
 2. **What does the 'synchronized' keyword do?**: The `synchronized` keyword makes sure that only one thread can access a method or a block of code at a time, which ensures mutual exclusion. It prevents multiple threads from executing that code simultaneously, which helps avoid thread interference when working with shared data. It also guarantees visibility—so any changes a thread makes to variables inside a synchronized block are visible to other threads once the lock is released. That means other threads will see the most recent values when they enter the synchronized code. It's important to note that while `volatile` also helps with visibility, it doesn't provide mutual exclusion like `synchronized` does. So, if you need both visibility and exclusive access, `synchronized` is the right tool;
@@ -680,8 +688,5 @@
 14. **What is a Bean in Spring? What is Inversion of Control (IoC) in Spring?**: In Spring, a Bean is just a class whose lifecycle is managed by the Spring IoC container. The container takes care of creating, initializing and destroying instances of these Beans. In practice, any class annotated with @Component, @Service, @Repository or @Controller is considered a Spring Bean. In Spring, Inversion of Control (IoC) refers to the concept where the control over object creation and dependency management is transferred from the application code to the Spring container. Instead of a class creating its own dependencies using new, you define those dependencies and Spring automatically injects them where needed. This process is known as dependency injection.
 
 ## 2.4. Entrevista com o Gestor
-* Pode ser um pessoa com posição alta na hierarquria da empresa. Por isso, é normal se sentir sob pressão, mas não se deixe isso te afetar emocional. Pense como um parceiro para manter uma boa conexão. Transforma a entrevista em uma conversa, pois é isso: simplimsnete uma conversão, uma interação humana. E pensar que haverá vida depois de qualquer processo seletivo é um grande *insight*.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEzMjEwMjUsMTk0ODgxMjk0NV19
--->
+* Pode ser um pessoa com posição alta na hierarquria da empresa. Por isso, é normal se sentir sob pressão, mas não se deixe isso te afetar emocional. Pense como um parceiro para manter uma boa conexão. Transforma a entrevista em uma conversa, pois é isso: simplimsnete uma conversão, uma interação humana. E pensar que haverá vida depois de qualquer processo seletivo é um grande *insight*.
