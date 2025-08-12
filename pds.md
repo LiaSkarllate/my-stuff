@@ -175,13 +175,13 @@
 163. **major** (noun): curso de graduação;
 164. **major** (adj): principal, importante;
 165. **to hardcode** (verb): codificar de forma fixa; embutir (código) de maneira fixa;
-166. **threshold** (noun): limiar, patamar;
-167. **to indulge** (verb): satisfazer, ceder a um desejo;
-168. **further** (adj): adicional, mais distante;
-169. **further** (adv): mais (adiante);
-170. **to further** (verb): promover, impulsionar, fomentar;
-171. **to be into** (expression): estar interessado em, curtir, gostar de;
-172. **out-of-this-world** (adj): incrível, sensacional;
+166. **bordering** (adj): limítrofe, adjacente;
+167. **threshold** (noun): limiar;
+168. **liminal** (adj): liminar;
+169. **further** (adj): adicional, mais distante;
+170. **further** (adv): mais (adiante);
+171. **to further** (verb): promover, impulsionar, fomentar;
+172. **to be into** (expression): estar interessado em, curtir, gostar de;
 173. **deal** (noun): acordo, negociação;
 174. **to deal with** (prepositional verb): lidar com, tratar com;
 175. **handle** (noun): alça, puxador, maçaneta;
@@ -562,7 +562,9 @@
 550. **sneaky** (adj): sorrateiro, furtivo;
 551. **to make (something) seem like** (expression): fazer (algo) parecer;
 552. **to make (something) appear** (expression): fazer (algo) parecer;
-553. **stand-alone** (adj): independente, sozinho, autossuficiente; 
+553. **stand-alone** (adj): independente, sozinho, autossuficiente;
+554. **to indulge** (verb): satisfazer, ceder a um desejo;
+555. **out-of-this-world** (adj): incrível, sensacional;
 
 ## 2.2. Entrevista de RH
 
@@ -581,7 +583,7 @@
 * **When entering the meeting**: Hi! You must be (recruiter name). It's a pleasure to meet you, (recruiter name). I'm William and I'm looking forward to talking to you;
 
 * **When answering a question** :fa-arrow-right:
-	* Sure!
+    * Sure!
 	* Sure thing!
 	* Alright!
 	* Right.
