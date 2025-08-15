@@ -571,6 +571,10 @@
 559. **to matter** (verb): importar;
 560. **there is (something) the matter with** (expression): há algo de erro com;
 561. **to amend** (verb): emendar, retificar;
+562. **likewise** (adv): também, igualmente;
+563. **to be meant (to do something)** (expression): ser destinado a (fazer algo), ser feito para (fazer algo);
+564. **to be meant for (someone)** (expression): ser destinado a (alguém), ser feito para (alguém);
+565. **drawback** (noun): desvantagem, limitação;
 
 ## 2.2. Entrevista de RH
 
