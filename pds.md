@@ -379,8 +379,8 @@
 367. **takeaway** (noun): comida para viagem;
 368. **stale** (adj): velho, obsoleto, passado;
 369. **soggy** (adj): encharcado;
-370. **to bid** (verb): fazer uma oferta, dar um lance, ordenar (literário);
-371. **to toss** (verb): lançar, jogar;
+370. **to bid** (verb): fazer uma proposta, dar um lance, ordenar (literário);
+371. **bid** (noun): proposta, lance, candidatura (política);
 372. **physician** (noun): médico, clínico geral;
 373. **physicist** (noun): físico;
 374. **mannerism** (noun): maneirismo, mania;
@@ -575,6 +575,32 @@
 563. **to be meant (to do something)** (expression): ser destinado a (fazer algo), ser feito para (fazer algo);
 564. **to be meant for (someone)** (expression): ser destinado a (alguém), ser feito para (alguém);
 565. **drawback** (noun): desvantagem, limitação;
+566. **clayey** (adj): argiloso;
+567. **cunning** (adj): astuto, ardiloso;
+568. **sneaky** (adj): sorrateiro, furtivo;
+569. **overlay** (noun): sobreposição;
+570. **fever** (noun): febre;
+571. **to toss** (verb): lançar, jogar;
+572. **to urge** (verb): incitar;
+573. **to enact** (verb): promulgar;
+574. **bulwark** (noun): bastião;
+575. **to vie for** (prepositional verb): disputar por (algo);
+576. **mad** (adj): louco, furioso;
+577. **madness** (noun): loucura, insensatez;
+578. **rein** (noun): rédea;
+579. **dizzying** (adj): vertiginoso, que causa tontura;
+580. **dizzy** (adj): tonto, atordoado;
+581. **fuzzy** (adj): difuso, confuso;
+582. **to seize** (verb): apreender, tomar à força;
+583. **bygone** (adj): passado, antigo;
+584. **stiff** (adj): rígido, duro, inflexível;
+585. **to cling** (verb): agarrar-se a (algo), apegar-se a (algo);
+586. **hallmark** (noun): característica marcante, traço distintivo;
+587. **ballot rigged** (expression): eleição manipulada;
+588. **ballot** (noun): voto;
+589. **to rig** (verb): equipar, manipular;
+590. **striking** (adj): impressionante, chamativo, notável;
+591. **to slap** (verb): estapear, dar um tapa;
 
 ## 2.2. Entrevista de RH
 
