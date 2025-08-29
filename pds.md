@@ -619,23 +619,23 @@
 * **When entering the meeting**: Hi! You must be (recruiter name). It's a pleasure to meet you, (recruiter name). I'm William and I'm looking forward to talking to you;
 
 * **When answering a question** :fa-arrow-right:
-    * Sure!
-	* Sure thing!
-	* Alright!
-	* Right.
-	* Got it.
-	* Great question!
-	* Definitely!
-	* Yeah.
-	* Yep.
+  * Sure!
+  * Sure thing!
+  * Alright!
+  * Right.
+  * Got it.
+  * Great question!
+  * Definitely!
+  * Yeah.
+  * Yep.
 
 * **When agreeing** :fa-arrow-right:
-	* Yeah, no worries!
-	* Yeah, no problem!
-	* No problem at all!
-	* That's totally fine!
-	* That's okay!
-	* That sounds great!
+  * Yeah, no worries!
+  * Yeah, no problem!
+  * No problem at all!
+  * That's totally fine!
+  * That's okay!
+  * That sounds great!
 
 * **"Are you listening to me?"**: Yes, I'm listening. Loud and clear;
 
