@@ -601,6 +601,11 @@
 589. **to rig** (verb): equipar, manipular;
 590. **striking** (adj): impressionante, chamativo, notável;
 591. **to slap** (verb): estapear, dar um tapa;
+592. **forward** (adv): para a frente, adiante;
+593. **backward** (adv): para trás, ao contrário;
+594. **upward** (adv): para acima, acima;
+595. **downward** (adv): para baixo, baixo;
+596. **sideways** (adv): de lado, lateralmente;
 
 ## 2.2. Entrevista de RH
 
