@@ -606,6 +606,7 @@
 594. **upward** (adv): para acima, acima;
 595. **downward** (adv): para baixo, baixo;
 596. **sideways** (adv): de lado, lateralmente;
+597. **scracth** (verb): riscar, arranhar, coçar;
 
 ## 2.2. Entrevista de RH
 
