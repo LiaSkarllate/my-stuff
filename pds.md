@@ -447,10 +447,10 @@
 435. **to compromise on (something)** (prepositional verb): ceder em (algo)
 436. **compromise** (noun): compromisso com concessões mútuas, meio-termo;
 437. **self-taught** (adj): autodidata;
-438. **to stumble** (verb): tropeçar, errar;
-439. **stumble** (noun): tropeço (literal ou figurado);
+438. **to stumble** (verb): tropeçar, vacilar;
+439. **stumble** (noun): tropeço, vacilo;
 440. **to stumble upon** (prepositional verb): encontrar por acaso, dar de cara com;
-441. **to seem** (verb): parecer, dar a impressão de ser;
+441. **to trip** (verb): tropeçar;
 442. **to brew** (verb): preparar (café, chá ou cerveja);
 443. **to catch up** (phrasal verb): alcançar, se atualizar, pôr em dia;
 444. **to lay** (verb): colocar, pôr;
@@ -607,6 +607,19 @@
 595. **downward** (adv): para baixo, baixo;
 596. **sideways** (adv): de lado, lateralmente;
 597. **scracth** (verb): riscar, arranhar, coçar;
+598. **to seem** (verb): parecer, dar a impressão de ser;
+599. **plumbing** (noun): encanamento, instalações hidráulicas;
+600. **tremble** (verb): tremer, estremecer;
+601. **to doom** (verb): condenar, destinar a um fim trágico;
+602. **teary** (adj): com lágrimas nos olhos, lacrimejante, choroso;
+603. **to glide** (verb): deslizar, planar, mover-se suavemente;
+604. **to maul** (verb): estraçalhar, ferir gravemente, criticar duramente;
+605. **to stub** (verb): bater (dedo do pé);
+606. **stubble** (noun): barba por fazer;
+607. **wrap** (verb): embrulhar, enrolar, cobrir;
+608. **pond** (noun): lagoa, tanque;
+609. **afterwards** (adv): depois, mais tarde, em seguida;
+610. **to have a chip on (one's) shoulder** (expression): guardar mágoa, estar ressentido;
 
 ## 2.2. Entrevista de RH
 
