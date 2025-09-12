@@ -609,7 +609,7 @@
 597. **scracth** (verb): riscar, arranhar, coçar;
 598. **to seem** (verb): parecer, dar a impressão de ser;
 599. **plumbing** (noun): encanamento, instalações hidráulicas;
-600. **tremble** (verb): tremer, estremecer;
+600. **plumber** (noun): encanador;
 601. **to doom** (verb): condenar, destinar a um fim trágico;
 602. **teary** (adj): com lágrimas nos olhos, lacrimejante, choroso;
 603. **to glide** (verb): deslizar, planar, mover-se suavemente;
@@ -620,6 +620,18 @@
 608. **pond** (noun): lagoa, tanque;
 609. **afterwards** (adv): depois, mais tarde, em seguida;
 610. **to have a chip on (one's) shoulder** (expression): guardar mágoa, estar ressentido;
+611. **tremble** (verb): tremer, estremecer;
+612. **to make everything in your life about (something)** (expression): fazer tudo da vida sobre (alguma coisa);
+613. **to make your whole life about (something)** (expression): fazer sua vida toda sobre (alguma coisa);
+614. **to end in nothing** (expression): acabar em pizza;
+615. **to end up being swept under the rug** (expression): acabar sendo varrido para debaixo do tapete;
+616. **to fizzle out** (expression): perder força até acabar;
+617. **to be better off** (expression): estar em uma situação melhor;
+618. **room** (noun): cômodo.
+619. **cry-for-help** (adj): de pedido de ajuda, de socorro, desesperada(o);
+620. **to put aside** (expression): deixar de lado, não dar atenção;
+621. **to leave out** (expression): deixar de fora, excluir;
+622. **myopia** (noun): miopia;
 
 ## 2.2. Entrevista de RH
 
