@@ -627,7 +627,7 @@
 615. **to end up being swept under the rug** (expression): acabar sendo varrido para debaixo do tapete;
 616. **to fizzle out** (expression): perder força até acabar;
 617. **to be better off** (expression): estar em uma situação melhor;
-618. **room** (noun): cômodo.
+618. **room** (noun): cômodo;
 619. **cry-for-help** (adj): de pedido de ajuda, de socorro, desesperada(o);
 620. **to put aside** (expression): deixar de lado, não dar atenção;
 621. **to leave out** (expression): deixar de fora, excluir;
