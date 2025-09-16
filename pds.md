@@ -632,6 +632,8 @@
 620. **to put aside** (expression): deixar de lado, não dar atenção;
 621. **to leave out** (expression): deixar de fora, excluir;
 622. **myopia** (noun): miopia;
+623. **to wade** (verb): caminhar com dificuldade, percorrer com dificuldade;
+624. **to unravel** (verb): desvendar, desembaraçar;
 
 ## 2.2. Entrevista de RH
 
